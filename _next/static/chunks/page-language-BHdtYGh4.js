@@ -1,0 +1,1 @@
+import{r as e}from"./rolldown-runtime-C60lm6uB.js";import{i as t}from"./framework-D_rUT4EX.js";var n=e(t(),1);function r({lang:e}){return(0,n.useEffect)(()=>{document.documentElement.lang=e,document.documentElement.dir=e===`ar`?`rtl`:`ltr`;try{localStorage.setItem(`matrix-language`,e)}catch{}},[e]),null}export{r as PageLanguage};
